@@ -1,4 +1,4 @@
-# Git-Hub-for-BCA-Students
+# About: Git-Hub
 About Git Hub: GitHub is a platform primarily used for version control, collaboration, and code hosting. Here are some of the main things you can do on GitHub:
 
 1. **Version Control**: GitHub uses Git, a distributed version control system, to track changes in your codebase over time. You can commit changes, create branches, and merge changes back into the main codebase.
